@@ -15,6 +15,14 @@ h1,h2,h3,h4,h5 {
 .page-title {
     margin : 20px auto 35px;
 }
+<<<<<<< HEAD
 p {
     margin : 25px auto 20px;
+=======
+.block {
+    margin : 30px auto 20px;
+}
+.block h2 {
+    margin : 20px auto 10px;
+>>>>>>> css
 }
