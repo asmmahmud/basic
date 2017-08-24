@@ -6,3 +6,12 @@ body {
     font-size : 1.6rem;
     line-height : 1.5;
 }
+h1,h2,h3,h4,h5 {
+    margin : 25px auto 15px;
+}
+.tc {
+    text-align : center;
+}
+.page-title {
+    margin : 20px auto 35px;
+}
